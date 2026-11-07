@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+boto3
+ffmpeg-python
+requests
+python-multipart
+dotenv
+boto3
